@@ -16,7 +16,7 @@ void draw (){
     }
   }
   textSize(30);
-  text("Total:" + sum, 250,640);
+  text("Total: " + sum, 250,640);
 }
 void mousePressed(){
   sum=0;
